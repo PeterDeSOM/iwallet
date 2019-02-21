@@ -129,7 +129,7 @@ fs.readFile(f, 'utf8', function (err,data) {
 });
 ```
 
-Script above coded in 'patch.js', so we can execute it on running angular with this command;
+Script above was coded in 'patch.js', so we can execute it on running angular with this command;
 
 ```javascript
 node patch.js
